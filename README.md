@@ -12,12 +12,9 @@ This is a precourse study guide for a coding bootcamp. It has information on HTM
 
 No installation needed
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 To use this webpage, you can look between the notes of each coding method. If you open Chrome DevTools then you can have it give you a random topic to study first. Open the DevTools by right clicking anywhere on the page and clicking inspect.
-
 
 ## Credits
 
